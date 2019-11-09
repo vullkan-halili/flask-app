@@ -10,6 +10,9 @@ Install dependencies
 bash install.sh
 ```
 
+## Cofigure
+Copy the `config/application-template.cfg` to `config/application` and add your settings.
+
 ## Run data extraction script.
 Install dependencies
 ``` text
