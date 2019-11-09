@@ -14,13 +14,11 @@ bash install.sh
 Copy the `config/application-template.cfg` to `config/application.cfg` and add your settings.
 
 ## Run data extraction script.
-Install dependencies
 ``` text
 bash extract.sh
 ```
 
 ## Run flask server.
-Install dependencies
 ``` text
 bash run.sh
 ```
