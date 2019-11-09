@@ -1,2 +1,2 @@
 # flask-app
-Flask app
+Flask app api
