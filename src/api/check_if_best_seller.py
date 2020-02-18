@@ -9,10 +9,7 @@ class BestSeller():
             {'productID': product_id}
         )
 
-        if best_seller:
-            return self.make_best_seller_object(best_seller)
-
-        return self.make_best_seller_object()
+        return self.make_best_seller_object(best_seller)
 
     def make_best_seller_object(self, best_seller_obj=None):
         best_seller = {
